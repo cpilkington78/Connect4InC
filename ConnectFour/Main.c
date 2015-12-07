@@ -1,24 +1,3 @@
-/*
-int main(void)
-{
-	// Initialize the board array to spaces
-	char board[6][7];
-	int i, j;
-	for (i = 0; i < 6; i++)
-	{
-		for (j = 0; j < 7; j++)
-		{
-			board[i][j] = ' ';
-		}
-	}
-
-	// Display the blank board
-	drawConnectFour(board);
-
-	return 0;
-}
-*/
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
